@@ -1,0 +1,50 @@
+* {margin: 0px; padding: 0px;}
+h1 { font: blod 2em verdana, sans-serif;}
+h2 { font: blod 1.5em verdana, sans-serif;}
+h3 { font: blod 1,2em verdana, sans-serif;}
+h5 { font: blod 1em verdana, sans-serif;}
+body{ text-align: center;}
+#page { width: 1300px;
+        margin: 15px auto;
+        text-align: center;}
+#header {background: #969591;
+        border: 1px solid #999999;
+        padding: 20px;
+        text-align: left;}
+#nav {background: #CCCCCC;
+    padding: 5px 15px;}
+#nav li {display: inline;
+        list-style: none;
+        padding: 5px;
+        font: bold 14px verdana, sans-serif;
+        cursor: default;}
+nav a {text-decoration: none;}
+#nav a:hover {color: white;}
+#content {float: left;
+        width: 900px;
+        margin: 20px;}
+#aside {float: left;
+        width: 300px;
+        margin: 20px 0px;
+        padding: 20px;
+        background: #CCCCCC;}
+#floter2 {clear: both;
+            text-align: center;
+            padding: 20px;
+            border-top: 2px solid #999999;}
+#floter1 {clear: both;
+                text-align: right;
+                padding: 20px;
+                border-top: 2px solid #999999;}
+.article {background: #b0e5f5;
+                    border: 1px solid #999999;
+                    padding: 20px;
+                    margin-bottom: 15px;}
+.article_header {border-bottom: 1px solid #999999;}
+.articlefooter {text-align: right;}
+.figure {border: 1px double #999999;
+        padding: 5px;}
+.figure.figcaption {font: italic 0.2em verdana, sans-serif;}
+
+
+    
