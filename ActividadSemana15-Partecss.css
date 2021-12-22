@@ -1,0 +1,19 @@
+
+section{
+   
+    width: 300px;
+    padding: 20px;
+}
+.sub{
+    color:red;
+    text-decoration: underline;
+}
+.sub2{
+    background-color:red;
+    text-decoration: underline;
+    color:white;
+}
+.sub3{
+    color:rgb(189, 182, 182);
+    text-decoration: underline;
+}
